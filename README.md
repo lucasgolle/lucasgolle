@@ -3,10 +3,10 @@
 - Amo programação, games e tecnologia
 - Estudante de Ciência da Computação e desenvolvimento web fullstack pela Kenzie Academy Brasil
 - “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
-<div align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/lucasgolle">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgolle&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgolle&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasgolle&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgolle&layout=compact&langs_count=7&theme=cobalt"/>
  </div>
   
 <div style="display: inline_block"><br>
