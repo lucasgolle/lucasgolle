@@ -1,6 +1,6 @@
 ### Olá, meu nome é Lucas 👋
 
-- Programador fullstack
+- Amo programação, games e tecnologia
 - Estudante de Ciência da Computação e desenvolvimento web fullstack pela Kenzie Academy Brasil
 - “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
 
